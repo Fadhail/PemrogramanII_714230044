@@ -1,0 +1,34 @@
+Nama    : Mochammad Fadhail Fijratullah
+NPM     : 714230044
+Kelas   : 2B
+
+--------------------------------------------------------------------------------------------------------------------------------
+Bagian 1
+1. Jelaskan mengapa pesan kesalahan tersebut muncul!
+    Jawaban:
+    Pesan tersebut muncul karena variable myType di dalam class Product_714230044 itu protected, yang artinya myType hanya dapat di aksses oleh class itu sendiri atau oleh subclassnya.
+
+2. Perhatikan hasil yang muncul dilayar, kenapa bisa seperti itu?
+    Jawaban:
+    Setelah di run tidak muncul apa apa karena MyType belum diinisialisasi, oleh karena itu tidak ada yang harus di print oleh sytem karena MyType isinya null.
+
+3. Jelaskan mengapa yang muncul dilayar adalah kata tersebut!
+    Jawaban:
+    Setelah di run muncul kata "DVD" karena MyType sudah diinisialisasi yang dimana nilainya atau isinya adalah "DVD".
+
+--------------------------------------------------------------------------------------------------------------------------------
+Bagian 2
+1. Jelaskan mengapa tipe dan title dari buku tersebut tidak muncul! 
+    Apakah istilah dalam konsep OOP yang mendefinisikan fenomena seperti ini?
+    Jawaban:
+    type dan title tidak muncul karena di konstruktor Book_714230044 hanya pageCount saja yang di set. Jadi, nilai MyType dan MyTitle di kelas induk (Product_714230044) tetap kosong ketika DisplayInfo() dipanggil.
+    Istilah konsep OOP dalam hal ini adalah Inheritance dan Encapsulation.
+ 
+2. Perhatikan hasil yang muncu dilayar, jelaskan mengapa saat ini tipe dan judul buku tampil pada output!
+    Jawaban:
+    type dan title muncul karena kata kunci base dipakai untuk memanggil konstruktor dari Product_714230044 dan mengoper nilai type dan title ke sana.
+
+3. Mengapa objek product2 tidak dibuat seperti product1 atau seperti gambar yang ditandai di bawah?
+    Jawaban:
+    Karena "DVD" sudah diinisialisasi di class DVD_714230044, jadi "DVD" tidak perlu lagi diinisialisasikan di class ProductTest_714230044
+    

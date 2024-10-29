@@ -1,0 +1,15 @@
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/bin/Release/net8.0/P4_1_714230044
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/bin/Release/net8.0/P4_1_714230044.deps.json
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/bin/Release/net8.0/P4_1_714230044.runtimeconfig.json
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/bin/Release/net8.0/P4_1_714230044.dll
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/bin/Release/net8.0/P4_1_714230044.pdb
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/obj/Release/net8.0/P4_1_714230044.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/obj/Release/net8.0/P4_1_714230044.AssemblyInfoInputs.cache
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/obj/Release/net8.0/P4_1_714230044.AssemblyInfo.cs
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/obj/Release/net8.0/P4_1_714230044.csproj.CoreCompileInputs.cache
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/obj/Release/net8.0/P4_1_714230044.sourcelink.json
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/obj/Release/net8.0/P4_1_714230044.dll
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/obj/Release/net8.0/refint/P4_1_714230044.dll
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/obj/Release/net8.0/P4_1_714230044.pdb
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/obj/Release/net8.0/P4_1_714230044.genruntimeconfig.cache
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Praktikum/P4_1_714230044/P4_1_714230044/obj/Release/net8.0/ref/P4_1_714230044.dll
