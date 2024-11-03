@@ -30,43 +30,43 @@ Bot Obrolan Sederhana ini merupakan aplikasi yang dirancang untuk memberikan inf
    - Anda dapat bertanya dengan mengetikkan salah satu pertanyaan yang telah disediakan.
    - Contoh:
      - Jika Anda bertanya "Hai", maka akan dijawab:
-       ![Hai](img/hai.png)
+       - ![Hai](img/hai.png)
 
      - Jika Anda bertanya "Apa kabar", maka akan dijawab:
-       ![Apa kabar](img/apa_kabar.png)
+       - ![Apa kabar](img/apa_kabar.png)
 
      - Jika Anda bertanya "Baik", maka akan dijawab:
-       ![Apa kabar](img/baik.png)
+       - ![Apa kabar](img/baik.png)
 
 3. **Mendapatkan Bantuan:**
    - Jika Anda mengetik "Bantuan", bot akan memberikan daftar pertanyaan yang bisa Anda tanyakan.
    - Contoh tampilan bantuan:
-     ![Bantuan](img/bantuan.png)
+     - ![Bantuan](img/bantuan.png)
 
 4. **Mengetahui Konsep OOP:**
    - Untuk memahami lebih dalam tentang konsep OOP, Anda dapat bertanya mengenai:
      - **Apa itu Abstraction?**
        - Bot akan menjelaskan definisi dan fungsinya.
-       ![Abstraction](img/abstraction.png)
+       - ![Abstraction](img/abstraction.png)
 
      - **Apa itu Inheritance?**
        - Bot akan memberikan penjelasan tentang pewarisan dalam OOP.
-       ![Inheritance](img/inheritance.png)
+       - ![Inheritance](img/inheritance.png)
 
      - **Apa itu Polymorphism?**
        - Bot akan memberikan contoh dan definisi polimorfisme.
-       ![Polymorphism](img/polymorphism.png)
+       - ![Polymorphism](img/polymorphism.png)
 
      - **Apa itu Encapsulation?**
        - Bot akan menjelaskan konsep enkapsulasi.
-       ![Encapsulation](img/encapsulation.png)
+       - ![Encapsulation](img/encapsulation.png)
 
      - **Apa itu Constructor?**
        - Bot akan memberikan penjelasan mengenai konstruktor dalam kelas.
-       ![Constructor](img/constructor.png)
+       - ![Constructor](img/constructor.png)
 
 5. **Mengakhiri Obrolan:**
    - Ketik "Bye" untuk mengakhiri percakapan.
    - Bot akan membalas dengan ucapan selamat tinggal.
-   ![Bye](img/bye.png)
+   - ![Bye](img/bye.png)
 
