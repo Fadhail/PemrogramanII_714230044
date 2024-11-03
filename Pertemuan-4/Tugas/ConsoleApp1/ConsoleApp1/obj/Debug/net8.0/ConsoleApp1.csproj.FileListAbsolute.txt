@@ -1,0 +1,15 @@
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/fadhail/Documents/Kuliah Semester 3/PemrogramanII_714230044/Pertemuan-4/Tugas/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
