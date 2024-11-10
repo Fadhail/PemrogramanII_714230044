@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xeroon\\source\\repos\\P5_3_714230044\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DE84BD-5E99-43D7-96BE-CF3CBF3B8477}|P5_3_714230044\\P5_3_714230044.csproj|C:\\Users\\xeroon\\source\\repos\\P5_3_714230044\\p5_3_714230044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DE84BD-5E99-43D7-96BE-CF3CBF3B8477}|P5_3_714230044\\P5_3_714230044.csproj|solutionrelative:p5_3_714230044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DE84BD-5E99-43D7-96BE-CF3CBF3B8477}|P5_3_714230044\\P5_3_714230044.csproj|c:\\users\\xeroon\\source\\repos\\p5_3_714230044\\p5_3_714230044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0DE84BD-5E99-43D7-96BE-CF3CBF3B8477}|P5_3_714230044\\P5_3_714230044.csproj|solutionrelative:p5_3_714230044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DE84BD-5E99-43D7-96BE-CF3CBF3B8477}|P5_3_714230044\\P5_3_714230044.csproj|c:\\users\\xeroon\\source\\repos\\p5_3_714230044\\p5_3_714230044\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DE84BD-5E99-43D7-96BE-CF3CBF3B8477}|P5_3_714230044\\P5_3_714230044.csproj|solutionrelative:p5_3_714230044\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xeroon\\source\\repos\\P5_3_714230044\\P5_3_714230044\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "P5_3_714230044\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\xeroon\\source\\repos\\P5_3_714230044\\P5_3_714230044\\Form1.Designer.cs",
+              "RelativeToolTip": "P5_3_714230044\\Form1.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowE0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:54:38.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\xeroon\\source\\repos\\P5_3_714230044\\P5_3_714230044\\Form1.cs",
+              "RelativeDocumentMoniker": "P5_3_714230044\\Form1.cs",
+              "ToolTip": "C:\\Users\\xeroon\\source\\repos\\P5_3_714230044\\P5_3_714230044\\Form1.cs",
+              "RelativeToolTip": "P5_3_714230044\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:32:09.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xeroon\\source\\repos\\P5_3_714230044\\P5_3_714230044\\Form1.cs",
+              "RelativeDocumentMoniker": "P5_3_714230044\\Form1.cs",
+              "ToolTip": "C:\\Users\\xeroon\\source\\repos\\P5_3_714230044\\P5_3_714230044\\Form1.cs [Design]",
+              "RelativeToolTip": "P5_3_714230044\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:26:17.367Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

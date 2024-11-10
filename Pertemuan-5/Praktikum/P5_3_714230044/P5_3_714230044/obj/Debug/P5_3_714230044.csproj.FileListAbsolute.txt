@@ -1,0 +1,10 @@
+C:\Users\xeroon\source\repos\P5_3_714230044\P5_3_714230044\obj\Debug\P5_3_714230044.csproj.AssemblyReference.cache
+C:\Users\xeroon\source\repos\P5_3_714230044\P5_3_714230044\obj\Debug\P5_3_714230044.Form1.resources
+C:\Users\xeroon\source\repos\P5_3_714230044\P5_3_714230044\obj\Debug\P5_3_714230044.Properties.Resources.resources
+C:\Users\xeroon\source\repos\P5_3_714230044\P5_3_714230044\obj\Debug\P5_3_714230044.csproj.GenerateResource.cache
+C:\Users\xeroon\source\repos\P5_3_714230044\P5_3_714230044\obj\Debug\P5_3_714230044.csproj.CoreCompileInputs.cache
+C:\Users\xeroon\source\repos\P5_3_714230044\P5_3_714230044\bin\Debug\P5_3_714230044.exe.config
+C:\Users\xeroon\source\repos\P5_3_714230044\P5_3_714230044\bin\Debug\P5_3_714230044.exe
+C:\Users\xeroon\source\repos\P5_3_714230044\P5_3_714230044\bin\Debug\P5_3_714230044.pdb
+C:\Users\xeroon\source\repos\P5_3_714230044\P5_3_714230044\obj\Debug\P5_3_714230044.exe
+C:\Users\xeroon\source\repos\P5_3_714230044\P5_3_714230044\obj\Debug\P5_3_714230044.pdb

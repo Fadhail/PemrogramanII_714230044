@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xeroon\\source\\repos\\P5_2_714230044\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{451C342D-13DE-4BAD-AC5C-0B4FA989A2D2}|P5_2_714230044\\P5_2_714230044.csproj|c:\\users\\xeroon\\source\\repos\\p5_2_714230044\\p5_2_714230044\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{451C342D-13DE-4BAD-AC5C-0B4FA989A2D2}|P5_2_714230044\\P5_2_714230044.csproj|solutionrelative:p5_2_714230044\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C342D-13DE-4BAD-AC5C-0B4FA989A2D2}|P5_2_714230044\\P5_2_714230044.csproj|c:\\users\\xeroon\\source\\repos\\p5_2_714230044\\p5_2_714230044\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C342D-13DE-4BAD-AC5C-0B4FA989A2D2}|P5_2_714230044\\P5_2_714230044.csproj|solutionrelative:p5_2_714230044\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C342D-13DE-4BAD-AC5C-0B4FA989A2D2}|P5_2_714230044\\P5_2_714230044.csproj|c:\\users\\xeroon\\source\\repos\\p5_2_714230044\\p5_2_714230044\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C342D-13DE-4BAD-AC5C-0B4FA989A2D2}|P5_2_714230044\\P5_2_714230044.csproj|solutionrelative:p5_2_714230044\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C342D-13DE-4BAD-AC5C-0B4FA989A2D2}|P5_2_714230044\\P5_2_714230044.csproj|c:\\users\\xeroon\\source\\repos\\p5_2_714230044\\p5_2_714230044\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{451C342D-13DE-4BAD-AC5C-0B4FA989A2D2}|P5_2_714230044\\P5_2_714230044.csproj|solutionrelative:p5_2_714230044\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChildForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xeroon\\source\\repos\\P5_2_714230044\\P5_2_714230044\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230044\\ChildForm.cs",
+              "ToolTip": "C:\\Users\\xeroon\\source\\repos\\P5_2_714230044\\P5_2_714230044\\ChildForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714230044\\ChildForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:11:38.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "C:\\Users\\xeroon\\source\\repos\\P5_2_714230044\\P5_2_714230044\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230044\\ChildForm.cs",
+              "ToolTip": "C:\\Users\\xeroon\\source\\repos\\P5_2_714230044\\P5_2_714230044\\ChildForm.cs",
+              "RelativeToolTip": "P5_2_714230044\\ChildForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:56:40.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\xeroon\\source\\repos\\P5_2_714230044\\P5_2_714230044\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230044\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\xeroon\\source\\repos\\P5_2_714230044\\P5_2_714230044\\ParentForm.cs",
+              "RelativeToolTip": "P5_2_714230044\\ParentForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:09:23.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xeroon\\source\\repos\\P5_2_714230044\\P5_2_714230044\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230044\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\xeroon\\source\\repos\\P5_2_714230044\\P5_2_714230044\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714230044\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:08:29.845Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
