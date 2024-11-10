@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xeroon\\Documents\\Kuliah\\PemrogramanII_714230044\\Pertemuan-5\\Tugas\\P5_4_714230044\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9816C3F5-07E1-431D-A476-FB91F3994B38}|P5_4_714230044\\P5_4_714230044.csproj|c:\\users\\xeroon\\documents\\kuliah\\pemrogramanii_714230044\\pertemuan-5\\tugas\\p5_4_714230044\\p5_4_714230044\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9816C3F5-07E1-431D-A476-FB91F3994B38}|P5_4_714230044\\P5_4_714230044.csproj|solutionrelative:p5_4_714230044\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9816C3F5-07E1-431D-A476-FB91F3994B38}|P5_4_714230044\\P5_4_714230044.csproj|c:\\users\\xeroon\\documents\\kuliah\\pemrogramanii_714230044\\pertemuan-5\\tugas\\p5_4_714230044\\p5_4_714230044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9816C3F5-07E1-431D-A476-FB91F3994B38}|P5_4_714230044\\P5_4_714230044.csproj|solutionrelative:p5_4_714230044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9816C3F5-07E1-431D-A476-FB91F3994B38}|P5_4_714230044\\P5_4_714230044.csproj|c:\\users\\xeroon\\documents\\kuliah\\pemrogramanii_714230044\\pertemuan-5\\tugas\\p5_4_714230044\\p5_4_714230044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9816C3F5-07E1-431D-A476-FB91F3994B38}|P5_4_714230044\\P5_4_714230044.csproj|solutionrelative:p5_4_714230044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xeroon\\Documents\\Kuliah\\PemrogramanII_714230044\\Pertemuan-5\\Tugas\\P5_4_714230044\\P5_4_714230044\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "P5_4_714230044\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\xeroon\\Documents\\Kuliah\\PemrogramanII_714230044\\Pertemuan-5\\Tugas\\P5_4_714230044\\P5_4_714230044\\Form1.Designer.cs",
+              "RelativeToolTip": "P5_4_714230044\\Form1.Designer.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAowEYBAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:34:04.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\xeroon\\Documents\\Kuliah\\PemrogramanII_714230044\\Pertemuan-5\\Tugas\\P5_4_714230044\\P5_4_714230044\\Form1.cs",
+              "RelativeDocumentMoniker": "P5_4_714230044\\Form1.cs",
+              "ToolTip": "C:\\Users\\xeroon\\Documents\\Kuliah\\PemrogramanII_714230044\\Pertemuan-5\\Tugas\\P5_4_714230044\\P5_4_714230044\\Form1.cs",
+              "RelativeToolTip": "P5_4_714230044\\Form1.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAtwJEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:22:14.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "10e5aecc-d74f-4591-9037-acb28214947d",
+        "Display": 1,
+        "X": 1418,
+        "Y": 42,
+        "Width": 1171,
+        "Height": 830,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xeroon\\Documents\\Kuliah\\PemrogramanII_714230044\\Pertemuan-5\\Tugas\\P5_4_714230044\\P5_4_714230044\\Form1.cs",
+              "RelativeDocumentMoniker": "P5_4_714230044\\Form1.cs",
+              "ToolTip": "C:\\Users\\xeroon\\Documents\\Kuliah\\PemrogramanII_714230044\\Pertemuan-5\\Tugas\\P5_4_714230044\\P5_4_714230044\\Form1.cs [Design]",
+              "RelativeToolTip": "P5_4_714230044\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:38:27.2Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

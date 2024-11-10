@@ -1,0 +1,10 @@
+C:\Users\xeroon\Documents\Kuliah\PemrogramanII_714230044\Pertemuan-5\Tugas\P5_4_714230044\P5_4_714230044\obj\Debug\P5_4_714230044.csproj.AssemblyReference.cache
+C:\Users\xeroon\Documents\Kuliah\PemrogramanII_714230044\Pertemuan-5\Tugas\P5_4_714230044\P5_4_714230044\obj\Debug\P5_4_714230044.Form1.resources
+C:\Users\xeroon\Documents\Kuliah\PemrogramanII_714230044\Pertemuan-5\Tugas\P5_4_714230044\P5_4_714230044\obj\Debug\P5_4_714230044.csproj.GenerateResource.cache
+C:\Users\xeroon\Documents\Kuliah\PemrogramanII_714230044\Pertemuan-5\Tugas\P5_4_714230044\P5_4_714230044\bin\Debug\P5_4_714230044.exe.config
+C:\Users\xeroon\Documents\Kuliah\PemrogramanII_714230044\Pertemuan-5\Tugas\P5_4_714230044\P5_4_714230044\bin\Debug\P5_4_714230044.exe
+C:\Users\xeroon\Documents\Kuliah\PemrogramanII_714230044\Pertemuan-5\Tugas\P5_4_714230044\P5_4_714230044\bin\Debug\P5_4_714230044.pdb
+C:\Users\xeroon\Documents\Kuliah\PemrogramanII_714230044\Pertemuan-5\Tugas\P5_4_714230044\P5_4_714230044\obj\Debug\P5_4_714230044.Properties.Resources.resources
+C:\Users\xeroon\Documents\Kuliah\PemrogramanII_714230044\Pertemuan-5\Tugas\P5_4_714230044\P5_4_714230044\obj\Debug\P5_4_714230044.csproj.CoreCompileInputs.cache
+C:\Users\xeroon\Documents\Kuliah\PemrogramanII_714230044\Pertemuan-5\Tugas\P5_4_714230044\P5_4_714230044\obj\Debug\P5_4_714230044.exe
+C:\Users\xeroon\Documents\Kuliah\PemrogramanII_714230044\Pertemuan-5\Tugas\P5_4_714230044\P5_4_714230044\obj\Debug\P5_4_714230044.pdb
