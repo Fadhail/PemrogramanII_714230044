@@ -1,0 +1,17 @@
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\bin\Debug\net8.0-windows\P7_1_714230044.exe
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\bin\Debug\net8.0-windows\P7_1_714230044.deps.json
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\bin\Debug\net8.0-windows\P7_1_714230044.runtimeconfig.json
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\bin\Debug\net8.0-windows\P7_1_714230044.dll
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\bin\Debug\net8.0-windows\P7_1_714230044.pdb
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\P7_1_714230044.Form1.resources
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\P7_1_714230044.Properties.Resources.resources
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\P7_1_714230044.csproj.GenerateResource.cache
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\P7_1_714230044.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\P7_1_714230044.AssemblyInfoInputs.cache
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\P7_1_714230044.AssemblyInfo.cs
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\P7_1_714230044.csproj.CoreCompileInputs.cache
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\P7_1_714230044.dll
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\refint\P7_1_714230044.dll
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\P7_1_714230044.pdb
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\P7_1_714230044.genruntimeconfig.cache
+E:\Kuliah Semester 3\Pemograman\raw\P7_1_714230044\obj\Debug\net8.0-windows\ref\P7_1_714230044.dll
