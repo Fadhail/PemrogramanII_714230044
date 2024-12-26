@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|e:\\kuliah semester 3\\pemograman\\p10_714230044\\p10_714230044\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|solutionrelative:p10_714230044\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\p10_714230044\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|solutionrelative:p10_714230044\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\p10_714230044\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|solutionrelative:p10_714230044\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\p10_714230044\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|solutionrelative:p10_714230044\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|solutionrelative:P10_714230044\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\p10_714230044\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7BFBC8-F9EC-4669-B040-F2D2E07A3BB5}|P10_714230044\\P10_714230044.csproj|solutionrelative:p10_714230044\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P10_714230044\\view\\Form1.cs",
+              "ToolTip": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\view\\Form1.cs",
+              "RelativeToolTip": "P10_714230044\\view\\Form1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAzwHkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:45:08.157Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\view\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "P10_714230044\\view\\Form1.Designer.cs",
+              "ToolTip": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\view\\Form1.Designer.cs",
+              "RelativeToolTip": "P10_714230044\\view\\Form1.Designer.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:47:41.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P10_714230044\\view\\Form1.cs",
+              "ToolTip": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "P10_714230044\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:44:57.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "P10_714230044\\controller\\Mahasiswa.cs",
+              "ToolTip": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "P10_714230044\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv0UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:36:29.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "P10_714230044\\model\\M_mahasiswa.cs",
+              "ToolTip": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "P10_714230044\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADgvwoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:33:09.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\Program.cs",
+              "RelativeDocumentMoniker": "P10_714230044\\Program.cs",
+              "ToolTip": "E:\\Kuliah Semester 3\\Pemograman\\P10_714230044\\P10_714230044\\Program.cs",
+              "RelativeToolTip": "P10_714230044\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T15:38:20.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
