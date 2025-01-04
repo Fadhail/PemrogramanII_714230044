@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|C:\\Users\\mocha\\source\\repos\\P11_714230044\\p11_714230044\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|C:\\Users\\mocha\\source\\repos\\P11_714230044\\p11_714230044\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|C:\\Users\\mocha\\source\\repos\\P11_714230044\\p11_714230044\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\view\\formnilai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\view\\formnilai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|c:\\users\\mocha\\source\\repos\\p11_714230044\\p11_714230044\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC9CA48-C47B-41CC-9A8F-1623D33480B6}|P11_714230044\\P11_714230044.csproj|solutionrelative:p11_714230044\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "P11_714230044\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:19:35.629Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\controller\\Nilai.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\controller\\Nilai.cs",
+              "RelativeToolTip": "P11_714230044\\controller\\Nilai.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBMAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:39:26.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "M_nilai.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\model\\M_nilai.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\model\\M_nilai.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\model\\M_nilai.cs",
+              "RelativeToolTip": "P11_714230044\\model\\M_nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:38:53.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\FormNilai.cs",
+              "RelativeToolTip": "P11_714230044\\view\\FormNilai.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwJ0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:31:38.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormNilai.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\FormNilai.Designer.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\view\\FormNilai.Designer.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\FormNilai.Designer.cs",
+              "RelativeToolTip": "P11_714230044\\view\\FormNilai.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowBgBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:28:50.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\Program.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\Program.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\Program.cs",
+              "RelativeToolTip": "P11_714230044\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:22:29.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\ParentForm.cs",
+              "RelativeToolTip": "P11_714230044\\view\\ParentForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:21:20.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\Form1.cs",
+              "RelativeToolTip": "P11_714230044\\view\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:21:48.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\controller\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "P11_714230044\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:19:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\controller\\koneksi.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\controller\\koneksi.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\controller\\koneksi.cs",
+              "RelativeToolTip": "P11_714230044\\controller\\koneksi.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:16:53.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\model\\M_mahasiswa.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "P11_714230044\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:15:59.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\view\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\Form1.Designer.cs",
+              "RelativeToolTip": "P11_714230044\\view\\Form1.Designer.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAAwDwBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:10:15.997Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "P11_714230044\\view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:32:29.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P11_714230044\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P11_714230044\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:20:21.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
