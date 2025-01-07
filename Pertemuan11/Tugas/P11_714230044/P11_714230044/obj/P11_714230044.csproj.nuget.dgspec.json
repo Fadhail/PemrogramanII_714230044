@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\P11_714230044.csproj": {}
+    "C:\\Users\\xeroon\\Documents\\PemrogramanII_714230044\\Pertemuan11\\Tugas\\P11_714230044\\P11_714230044\\P11_714230044.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\P11_714230044.csproj": {
+    "C:\\Users\\xeroon\\Documents\\PemrogramanII_714230044\\Pertemuan11\\Tugas\\P11_714230044\\P11_714230044\\P11_714230044.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\P11_714230044.csproj",
+        "projectUniqueName": "C:\\Users\\xeroon\\Documents\\PemrogramanII_714230044\\Pertemuan11\\Tugas\\P11_714230044\\P11_714230044\\P11_714230044.csproj",
         "projectName": "P11_714230044",
-        "projectPath": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\P11_714230044.csproj",
-        "packagesPath": "C:\\Users\\mocha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mocha\\source\\repos\\P11_714230044\\P11_714230044\\obj\\",
+        "projectPath": "C:\\Users\\xeroon\\Documents\\PemrogramanII_714230044\\Pertemuan11\\Tugas\\P11_714230044\\P11_714230044\\P11_714230044.csproj",
+        "packagesPath": "C:\\Users\\xeroon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xeroon\\Documents\\PemrogramanII_714230044\\Pertemuan11\\Tugas\\P11_714230044\\P11_714230044\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mocha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xeroon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -74,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
